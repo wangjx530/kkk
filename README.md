@@ -1,2 +1,3 @@
 # kkk
-  Gaussian Distribution
+  - Gaussian Distribution
+  
